@@ -70,8 +70,9 @@ console.log(await obj[0].array())
 
 We should try one at a time, save and refresh the page to check what is being outputted in console.
 
-Note how the shapes of the objects should be (see blue photo)
 
 ![Untitled](TensorFlow%20JS%20969029ccaa9b40539b95886b601f1d0e/Untitled%204.png)
+
+Note how the shapes of the objects should have the following shapes:
 
 ![Captura de pantalla 2021-10-28 a las 13.34.15.png](TensorFlow%20JS%20969029ccaa9b40539b95886b601f1d0e/Captura_de_pantalla_2021-10-28_a_las_13.34.15.png)
